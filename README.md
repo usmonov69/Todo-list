@@ -1,1 +1,1 @@
-# Todo-list  This is a very simple to do list  project for juniors 
+ This is a very simple to do list  project for juniors 
